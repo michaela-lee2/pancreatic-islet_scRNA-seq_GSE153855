@@ -1,0 +1,9 @@
+scanpy>=1.9
+anndata
+pandas
+numpy
+matplotlib
+seaborn
+python-igraph
+leidenalg
+celltypist
