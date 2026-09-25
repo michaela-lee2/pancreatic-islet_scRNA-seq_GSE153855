@@ -76,6 +76,8 @@ Or open it in Jupyter/VS Code and run cell-by-cell.
   sub-cluster marker genes against non-Beta islet cell markers; re-run the
   marker gene step on your own clustering if the resolution or sub-cluster
   numbering changes.
+## Results
+- When focusing specifically on beta cells in diabetes, the key finding is not a dramatic loss of cell numbers, but the emergence of beta-cell subtypes under ER stress and UPR activation, leading to impaired insulin production and protein-folding function in T2D.
 
 ## License
 
